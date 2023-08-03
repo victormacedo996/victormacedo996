@@ -1,4 +1,4 @@
-## I'm a software engineer!!!
+## Machine Learning Engineer & Backend developer
 
 In every project, personal or not, I try to apply the programmer thinking which is to dissect complex problems, applying the art of breaking down large obstacles into smaller, conquerable tasks to achive the final goal.
 
